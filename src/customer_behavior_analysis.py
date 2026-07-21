@@ -3,7 +3,7 @@
 Customer Behavior Analysis
 ===============================================================
 
-Author : Bhavya
+Author : Vijay
 Dataset: ecommerce_data.csv
 
 Description:
